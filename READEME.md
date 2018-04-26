@@ -1,5 +1,8 @@
 离人愁 - 李袁杰
 ===
+[![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
+
 * 词：`李袁杰`<br>
 * 曲：`李袁杰`<br>
 * 编曲：`筱雨沐`<br>
